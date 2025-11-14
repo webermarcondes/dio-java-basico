@@ -1,4 +1,4 @@
-package edu.java.operadores;
+package edu.java.sintaxe.operadores;
 
 /*
 Referência: https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/operadores

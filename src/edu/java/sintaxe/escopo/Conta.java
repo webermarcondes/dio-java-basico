@@ -1,4 +1,4 @@
-package edu.java.escopo;
+package edu.java.sintaxe.escopo;
 
 /*
 Referência: https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/escopo

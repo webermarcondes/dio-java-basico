@@ -1,4 +1,4 @@
-package edu.java.metodos;
+package edu.java.sintaxe.metodos;
 
 /*
 Classe criada no exercicio da SmartTv para ilustração de como usar os métodos definidos

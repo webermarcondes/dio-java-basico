@@ -1,4 +1,4 @@
-package edu.java.anatomiaDasClasses;
+package edu.java.sintaxe.anatomiaDasClasses;
 
 //Classe criada na Aula Anatomia Classes 4 para exemplificar o que é Indentação no
 //Código

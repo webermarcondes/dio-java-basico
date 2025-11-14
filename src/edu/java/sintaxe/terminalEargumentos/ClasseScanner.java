@@ -1,4 +1,4 @@
-package edu.java.terminalEargumentos;
+package edu.java.sintaxe.terminalEargumentos;
 
 /*
 Referência: https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/terminal-e-argumentos

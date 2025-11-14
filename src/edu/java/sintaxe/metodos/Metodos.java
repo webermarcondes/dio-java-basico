@@ -1,4 +1,4 @@
-package edu.java.metodos;
+package edu.java.sintaxe.metodos;
 
 /*
 Referência: https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/metodos

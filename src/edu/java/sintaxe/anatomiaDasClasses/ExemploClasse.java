@@ -1,4 +1,4 @@
-package edu.java.anatomiaDasClasses;
+package edu.java.sintaxe.anatomiaDasClasses;
 
 public class ExemploClasse {
 

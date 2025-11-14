@@ -1,4 +1,4 @@
-package edu.java.operadores;
+package edu.java.sintaxe.operadores;
 
 
 /*

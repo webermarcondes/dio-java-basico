@@ -1,4 +1,4 @@
-package edu.java.tiposEVariaveis;
+package edu.java.sintaxe.tiposEVariaveis;
 
 
 /*

@@ -1,4 +1,4 @@
-package edu.java.javaDoc;
+package edu.java.sintaxe.javaDoc;
 
 /*
  A classe em questão é um exemplo de como utilizar as anotações de documentação de código
