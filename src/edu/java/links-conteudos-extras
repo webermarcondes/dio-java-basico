@@ -9,3 +9,20 @@ Link: https://www.youtube.com/watch?v=gmT0lx4HSyY
 Como utilizar referências a métodos (Exemplo com println)
 
 https://stackoverflow.com/questions/48991294/how-to-write-system-out-println-as-a-method-reference
+
+
+Classe Scanner e Limpeza do Buffer de entrada:
+
+https://www.dio.me/articles/limpeza-de-buffer-com-scanner-em-java
+
+Exemplo para complementar a referência do Buffer de Entrada:
+
+    scanner.next() com delimitador " " -> Valor informado = "Weber Marcondes"
+
+    "Weber" é pego por scanner.next() enquanto "Marcondes" fica no Buffer para ser pego
+    pelo próximo método que acessa-lo, e caso este método seja nextInt(), nextDouble()
+    ou qualquer outro que não leia textos ocorrerá erro no código.
+
+
+
+
