@@ -30,7 +30,6 @@ public class EstruturaDoWhile {
 
         //negando o ato de continuar tocando para finalização da instrução do While
         //Caso o valor de atendeu seja true
-        
         return ! atendeu;
     }
 }
