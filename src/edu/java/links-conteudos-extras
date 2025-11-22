@@ -25,4 +25,16 @@ Exemplo para complementar a referência do Buffer de Entrada:
 
 
 
+Conteúdo sobre criação de exceções customizadas
+
+
+Exceções que dão extends da Classe Exception devem obrigatoriamente ser tratadas em alguma parte
+do código.
+
+Exceções que dão extends da Classe RuntimeException não precisam ser obrigatoriamente tratadas,
+pois são consideradas Exceções não checadas, geradas por erros internos como falha de lógica,
+erro de construção do código e etc...
+
+Fonte: Pesquisas que fiz em artigos da internet e em IAs como Gemini e Copilot.
+
 
