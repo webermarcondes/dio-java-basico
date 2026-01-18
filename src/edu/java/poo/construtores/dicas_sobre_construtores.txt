@@ -1,0 +1,10 @@
+DICAS SOBRE CONSTRUTORES:
+
+Considerar como boa prática a Definição de construtores para classes com os atributos
+realmente necessários para existência dos objetos criados, os atributos que não forem realmente
+necessários devem ter seus valores definidos posteriormente.
+
+Além disso, considerar também como boa prática que uma classe deve ter no máximo 2 construtores.
+Sendo 1 vazio e sem parametros, para possibilitar a instanciação da classe sem a passagem de valores e um
+personalizado(com parametros), para permitir a criação de objetos passando argumentos(valores) para os parametros
+definidos.

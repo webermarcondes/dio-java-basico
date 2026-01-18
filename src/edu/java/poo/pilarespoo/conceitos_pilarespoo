@@ -1,0 +1,51 @@
+Encapsulamento:
+
+Parte do código fica restrita ao utilizador, sendo mostrado somente o que ele precisa
+ver.
+
+Ex.: É interessante para um motorista que a ação de ligar
+     um carro retorne ligou ou não, a parte de engenharia mecânica, elétrica
+     e os demais processos necessários para o carro ligar não são visiveis a ele, por não
+     serem interessantes e uteis.
+
+
+Herança:
+
+Métodos / atributos comuns podem ser compartilhados com N objetos por meio de uma hierarquia de
+objetos.
+
+Ex.:
+    Carro e Moto tem funções comuns como Ligar, Desligar, Freiar e Acelerar.
+    Uma classe veiculo englobaria estas funções comuns, para facilitar a construção
+    dos objetos, e deixar o código mais organizado.
+
+
+
+Abstração:
+
+É a disponibilidade de definir que 1 ou N Objetos irão rodar um processo(método), sem definir
+a lógica de como esse processo será executado.
+
+Ex.:
+
+Veículo determina duas ações como acelerar e frear, logo estes comportamentos deverão
+ser abstratos pois existem mais de uma maneira de se realizar a mesma operação.
+
+
+Polimorfismo:
+
+São as inúmeras maneiras de se realizar uma mesma ação.
+
+Ex.:
+
+Veículo determina duas ações como acelerar e frear, primeiramente precisamos
+identificar se estaremos nos referindo a Carro ou Motocicleta para determinar
+a lógica de aceleração e frenagem dos respectivos veículos.
+
+
+Referência:
+
+https://felipe-aguiar.gitbook.io/dio-java/gitbook/programacao-orientada-a-objetos/conceito-de-poo
+
+
+
