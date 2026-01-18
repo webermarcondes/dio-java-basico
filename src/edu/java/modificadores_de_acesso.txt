@@ -1,0 +1,31 @@
+O que são modificadores de acesso no java?
+
+Um modificador de acesso é um recurso que permite controlar como uma classe, método ou atributo
+será visivel no projeto.
+
+Modificadores disponiveis:
+
+Public
+Private
+Protected
+Default (Definido quando nenhum dos anteriores é usado).
+
+
+Nivel de visibilidade concedido por cada modificador
+
+Public -> Torna o recurso (classe, método ou atributo) visivel para todos
+
+Private -> Torna o recurso visivel somente a nivel da classe em que foi definido
+
+Protected -> Torna o recurso visivel a nivel de pacote para qualquer classe, sub-classe(classe filha) e métodos,
+             E também para pacotes externos com o uso de herança (extends)
+
+
+Default (Package-private) -> Torna o recurso visivel somente no nivel do pacote em que
+                             ele foi definido.
+
+                             Obs.: Diferente do protected, não permite que o recurso seja visivel
+                                   a pacotes externos por meio de herança (extends).
+
+Referência: https://www.rocketseat.com.br/blog/artigos/post/entendendo-os-modificadores-de-acesso-em-java
+

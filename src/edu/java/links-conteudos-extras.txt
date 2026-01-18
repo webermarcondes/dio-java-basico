@@ -46,6 +46,18 @@ Artigo Sobre Arrays em Java
 
 https://www.devmedia.com.br/trabalhando-com-arrays-em-java/25530
 
+Artigo sobre Polimorfismo, Classes abstratas e Interfaces em java:
+
+https://www.devmedia.com.br/polimorfismo-classes-abstratas-e-interfaces-fundamentos-da-poo-em-java/26387
+
+Qual a diferença entre Classe abstrata e Interface, e quando usar cada uma?
+
+https://cursos.alura.com.br/forum/topico-diferenca-entre-classe-abstrata-e-interface-144776
+
+Artigo sobre o uso de um construtor em uma classe abstrata
+
+https://cursos.alura.com.br/forum/topico-construtor-em-classes-abstratas-107712
+
 
 
 
